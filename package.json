@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-statusbar",
-  "version": "2.4.4-dev",
+  "name": "cordova-plugin-statusbar-l3",
+  "version": "2.4.4",
   "description": "Cordova StatusBar Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
@@ -13,11 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-statusbar"
+    "url": "https://github.com/edgarmaial3/cordova-plugin-statusbar"
   },
   "bugs": {
-    "url": "https://github.com/apache/cordova-plugin-statusbar/issues"
+    "url": "https://github.com/edgarmaial3/cordova-plugin-statusbar/issues"
   },
+  "homepage": "https://github.com/edgarmaial3/cordova-plugin-statusbar#readme",
   "keywords": [
     "cordova",
     "statusbar",
